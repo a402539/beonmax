@@ -56,3 +56,8 @@ console.log('Урок 2.6. Как работать с GitHub с разных к�
 // git clone https://github.com/a402539/beonmax.git work // создастся папка work и в ней копия beonmax.git
 // изменения из папки work
 // необходимость merge при одновременных изменениях локально и на GitHub
+
+//#See https: //help.github.com/ignore-files for more about ignoring files.
+// .gitignore
+//  #dependencies
+//  /node_modules
