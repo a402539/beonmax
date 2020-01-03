@@ -49,3 +49,8 @@ console.log('Урок 2.5. Учимся работать с системой к�
 // push an existing repository from the command line
 // git remote add origin https://github.com/a402539/beonmax.git
 // git push -u origin master // следующий раз можно писать просто git push
+
+console.log('Урок 2.6. Как работать с GitHub с разных компьютеров.Gitignore и GitKraken');
+// скопировать в GitHub ссылку https://github.com/a402539/beonmax.git
+// cd .. // перейти в вышестоящую папку
+// git clone https://github.com/a402539/beonmax.git work // создастся папка work и в ней копия beonmax.git
