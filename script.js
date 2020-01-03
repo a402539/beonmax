@@ -42,3 +42,10 @@ console.log('Урок 2.5. Учимся работать с системой к�
 // git add -A // добавить файлы
 // git commit -a -m'first commit' // создать контрольную точку
 // сделать ищменения в файлах и отразить эти изменения, создав новую контрольную точку
+// git add -A
+// git commit -a -m'second'
+// посмотреть log
+// git log
+// push an existing repository from the command line
+// git remote add origin https://github.com/a402539/beonmax.git
+// git push -u origin master
